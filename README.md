@@ -8,10 +8,11 @@
 <img alt="Beyond Architecture" src="https://beyondarchitecture.co/wp-content/uploads/2019/10/logo_4_forweb-e1598458662517.jpg"  width="42" height="32">
 </a>
 
-
-
-
 ### Hi there 👋
+ I'm a specialized generalist. I have deeper roots in both Architecture and Data. But, I love learning new things, mixing and matching concepts and domains.
+
+
+Here's what I’m currently working on :arrow_down:
 
 
 
