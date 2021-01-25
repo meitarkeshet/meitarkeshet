@@ -1,4 +1,4 @@
-<img src="https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/72550992_138257314222893_619293567793233920_n.jpg?_nc_cat=111&ccb=2&_nc_sid=e3f864&_nc_ohc=Stcmqf9S37cAX_i68Ih&_nc_ht=scontent-cdg2-1.xx&oh=a1ea9aad3936e8bad99c0cf797f5bc9a&oe=603232E9" class="center"/>
+<img src="https://i.pinimg.com/originals/a5/ba/0f/a5ba0f47e2e2a8bd6a05fee7d9d1d4e1.jpg" class="center"/>
 
 ### Hi there 👋
 
