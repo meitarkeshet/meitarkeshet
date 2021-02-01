@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/originals/a5/ba/0f/a5ba0f47e2e2a8bd6a05fee7d9d1d4e1.jpg" class="center"/>
 
 <a href="https://www.linkedin.com/in/meitarkeshet/" class="center">
-<img alt="Linkedin" src="https://www.flaticon.com/svg/vstatic/svg/38/38669.svg?token=exp=1611572719~hmac=98531b48101548757be9414efb9ee62a"  width="32" height="32" class="center">
+<img alt="Linkedin" src="https://s2.qwant.com/thumbr/0x380/5/d/1901f52b67aedc2a994c2f983b2e6cbfd42cd6976d6e1358ae6bfd4ff7cb1c/img_24748.png?u=http%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fimg_24748.png&q=0&b=1&p=0&a=1"  width="32" height="32" class="center">
 </a>
 
 <a href="https://beyondarchitecture.co">
