@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/meitarkeshet/" align="center">
-<img alt="Linkedin" src="https://s2.qwant.com/thumbr/0x380/5/d/1901f52b67aedc2a994c2f983b2e6cbfd42cd6976d6e1358ae6bfd4ff7cb1c/img_24748.png?u=http%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fimg_24748.png&q=0&b=1&p=0&a=1"  width="32" height="32" class="center" position="center">
+<img alt="Linkedin" src="https://s2.qwant.com/thumbr/0x380/6/9/f58e50115d872bd1d90dc3490ebbc83f238d5d37843249dea9ba89dde2c946/linkedin1600.png?u=https%3A%2F%2Fmaxcdn.icons8.com%2FShare%2Ficon%2Fp1em%2FLogos%2Flinkedin1600.png&q=0&b=1&p=0&a=1"  width="32" height="32" class="center" position="center">
 </a>
 
 <a href="https://beyondarchitecture.co" align="center">
